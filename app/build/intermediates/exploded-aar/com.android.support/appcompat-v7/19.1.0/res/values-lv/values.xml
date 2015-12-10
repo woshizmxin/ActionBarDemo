@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-lv/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"P膩rvietoties uz s膩kuma ekr膩nu"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"P膩rvietoties aug拧up"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Vair膩k opciju"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Gatavs"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Skat墨t visu"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Izv膿lieties lietotni"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Not墨r墨t vaic膩jumu"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Mekl膿拧anas vaic膩jums"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Mekl膿t"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Iesniegt vaic膩jumu"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Mekl膿拧ana ar balsi"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Kop墨got ar:"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Kop墨got ar %s"</string>
+
+</resources>

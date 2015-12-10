@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhoumao/code/Yc_ui_actionbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-ru/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"袩械褉械泄褌懈 薪邪 谐谢邪胁薪褘泄 褝泻褉邪薪"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"袩械褉械泄褌懈 胁胁械褉褏"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"袛褉褍谐懈械 锌邪褉邪屑械褌褉褘"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"袚芯褌芯胁芯"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"袩芯泻邪蟹邪褌褜 胁褋械"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"袙褘斜褉邪褌褜 锌褉懈谢芯卸械薪懈械"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"校写邪谢懈褌褜 蟹邪锌褉芯褋"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"袩芯懈褋泻芯胁褘泄 蟹邪锌褉芯褋"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"袩芯懈褋泻"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"袨褌锌褉邪胁懈褌褜 蟹邪锌褉芯褋"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"袚芯谢芯褋芯胁芯泄 锌芯懈褋泻"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"袨褌泻褉褘褌褜 写芯褋褌褍锌"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"袨褌泻褉褘褌褜 写芯褋褌褍锌 锌芯谢褜蟹芯胁邪褌械谢褞 %s"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhoumao/code/Yc_ui_actionbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"螤位慰萎纬畏蟽畏 蟽蟿畏谓 伪蟻蠂喂魏萎 蟽蔚位委未伪"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"螤位慰萎纬畏蟽畏 蟺蟻慰蟼 蟿伪 蔚蟺维谓蠅"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"螤蔚蟻喂蟽蟽蠈蟿蔚蟻蔚蟼 蔚蟺喂位慰纬苇蟼"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"韦苇位慰蟼"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"螤蟻慰尾慰位萎 蠈位蠅谓"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"螘蟺喂位苇尉蟿蔚 魏维蟺慰喂伪 蔚蠁伪蟻渭慰纬萎"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"螖喂伪纬蟻伪蠁萎 蔚蟻蠅蟿萎渭伪蟿慰蟼"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"螘蟻蠋蟿畏渭伪 伪谓伪味萎蟿畏蟽畏蟼"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"螒谓伪味萎蟿畏蟽畏"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"违蟺慰尾慰位萎 蔚蟻蠅蟿萎渭伪蟿慰蟼"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"桅蠅谓畏蟿喂魏萎 伪谓伪味萎蟿畏蟽畏"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"螝慰喂谓萎 蠂蟻萎蟽畏 渭蔚"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"螝慰喂谓萎 蠂蟻萎蟽畏 渭蔚 %s"</string>
+</resources>

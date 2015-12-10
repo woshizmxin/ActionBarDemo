@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-ar/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"丕賱鬲賳賯賱 廿賱賶 丕賱卮丕卮丞 丕賱乇卅賷爻賷丞"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"丕賱鬲賳賯賱 廿賱賶 兀毓賱賶"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"禺賷丕乇丕鬲 廿囟丕賮賷丞"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"鬲賲"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"毓乇囟 丕賱賰賱"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"丕禺鬲賷丕乇 鬲胤亘賷賯"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"賲丨賵 胤賱亘 丕賱亘丨孬"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"胤賱亘 丕賱亘丨孬"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"亘丨孬"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"廿乇爻丕賱 胤賱亘 丕賱亘丨孬"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"丕賱亘丨孬 丕賱氐賵鬲賷"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"賲卮丕乇賰丞 賲毓"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"賲卮丕乇賰丞 賲毓 %s"</string>
+
+</resources>

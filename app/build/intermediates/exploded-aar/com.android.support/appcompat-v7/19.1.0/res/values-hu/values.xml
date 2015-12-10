@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-hu/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Ugr谩s a f艖oldalra"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Felfel茅 mozgat谩s"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Tov谩bbi lehet艖s茅gek"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"K茅sz"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"脰sszes megtekint茅se"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"V谩lasszon ki egy alkalmaz谩st"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Lek茅rdez茅s t枚rl茅se"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Keres茅si lek茅rdez茅s"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Keres茅s"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Lek茅rdez茅s k眉ld茅se"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Hangalap煤 keres茅s"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Megoszt谩s a k枚vetkez艖vel:"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Megoszt谩s a k枚vetkez艖vel: %s"</string>
+
+</resources>

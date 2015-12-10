@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:2:1-46:12
+	xmlns:android
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/zhoumao/code/Yc_ui_actionbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:11:5-44:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/zhoumao/code/Yc_ui_actionbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:15:9-56
+activity#com.yanis.actionbar.MainActivity
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:18:13-41
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:17:13-41
+	android:logo
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:19:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.yanis.actionbar.TabActivity
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:28:13-34
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:27:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:29:13-31:68
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:30:17-63
+	android:value
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:31:17-65
+activity#com.yanis.actionbar.CustomActivity
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:33:9-38:20
+	android:label
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:35:13-34
+	android:theme
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:37:13-56
+	android:parentActivityName
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:34:13-62
+activity#com.yanis.actionbar.ListActivity
+ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:39:9-43:20
+	android:label
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:41:13-35
+	android:parentActivityName
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from /Users/zhoumao/code/Yc_ui_actionbar/app/src/main/AndroidManifest.xml:40:13-60

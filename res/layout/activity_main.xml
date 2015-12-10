@@ -8,20 +8,20 @@
         android:id="@+id/btn1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tab导航" />
+        android:text="Tab瀵艰埅" />
     
     
     <Button
         android:id="@+id/btn2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="自定义ActionBar样式" />
+        android:text="鑷畾涔堿ctionBar鏍峰紡" />
     
     
     <Button
         android:id="@+id/btn3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="下拉列表导航" />
+        android:text="涓嬫媺鍒楄〃瀵艰埅" />
     
     </LinearLayout>

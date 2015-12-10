@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-hy-rAM/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"請謧詹詹站榨宅 湛崭謧斩"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"請謧詹詹站榨宅 站榨謤謬"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"员盏宅 炸斩湛謤铡斩謩斩榨謤"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"钥铡湛铡謤站铡债 乍"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"諒榨战斩榨宅 闸崭宅崭謤炸"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"愿斩湛謤榨宅 债謤铡眨斋謤"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"談铡謩謤榨宅 瞻铡謤謥崭謧沾炸"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"請謤崭斩沾铡斩 瞻铡謤謥崭謧沾"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"請謤崭斩榨宅"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"請謧詹铡謤寨榨宅 瞻铡謤謥崭謧沾炸"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"諄铡盏斩铡盏斋斩 崭謤崭斩崭謧沾"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"諒铡謤铡债榨宅"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"諒铡謤铡债榨宅 炸战湛 %s"</string>
+
+</resources>

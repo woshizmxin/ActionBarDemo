@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-iw/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"谞讜讜讟 诇讚祝 讛讘讬转"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"谞讜讜讟 诇诪注诇讛"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"注讜讚 讗驻砖专讜讬讜转"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"讘讜爪注"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"专讗讛 讛讻讜诇"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"讘讞专 讗驻诇讬拽爪讬讛"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"诪讞拽 砖讗讬诇转讛"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"砖讗讬诇转转 讞讬驻讜砖"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"讞驻砖"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"砖诇讞 砖讗讬诇转讛"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"讞讬驻讜砖 拽讜诇讬"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"砖转祝 注诐"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"砖转祝 注诐 %s"</string>
+
+</resources>

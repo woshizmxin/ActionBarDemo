@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/klp-ub-dev/frameworks/support/v7/appcompat/res/values-uk/strings.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"袩械褉械泄褌懈 薪邪 谐芯谢芯胁薪懈泄"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"袩械褉械泄褌懈 胁谐芯褉褍"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"袉薪褕褨 芯锌褑褨褩"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"袚芯褌芯胁芯"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"袩械褉械谐谢褟薪褍褌懈 胁褋褨"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"袙懈斜褉邪褌懈 锌褉芯谐褉邪屑褍"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"袨褔懈褋褌懈褌懈 蟹邪锌懈褌"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"袩芯褕褍泻芯胁懈泄 蟹邪锌懈褌"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"袩芯褕褍泻"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"袧邪写褨褋谢邪褌懈 蟹邪锌懈褌"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"袚芯谢芯褋芯胁懈泄 锌芯褕褍泻"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"袧邪写褨褋谢邪褌懈 褔械褉械蟹"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"袧邪写褨褋谢邪褌懈 褔械褉械蟹 %s"</string>
+
+</resources>
